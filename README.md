@@ -11,7 +11,7 @@ Aprender os fundamentos do desenvolvimento de aplicativos móveis para Android, 
 - Tipos de layout no Android (`LinearLayout`, `RelativeLayout`, `ConstraintLayout`, etc.)
 - Programação orientada a objetos (POO)
 - Manipulação de componentes visuais e eventos
-- Ciclo de vida de uma Activity
+- Activity
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -19,7 +19,6 @@ Aprender os fundamentos do desenvolvimento de aplicativos móveis para Android, 
 - **Kotlin**
 - **XML**
 - **Android Studio**
-- **Gradle**
 
 ## 💻 Ambiente de Desenvolvimento
 
@@ -31,16 +30,6 @@ Aprender os fundamentos do desenvolvimento de aplicativos móveis para Android, 
 ## 📁 Organização
 
 Os projetos e exercícios da disciplina estão organizados em pastas separadas neste repositório. Cada pasta contém os arquivos-fonte e recursos necessários para execução no Android Studio.
-
-## 📅 Semestre
-
-Disciplina cursada no semestre **2025.2**.
-
-## 👤 Autor
-
-- **Nome:** _[Seu Nome Aqui]_
-- **Curso:** _[Seu Curso]_
-- **Instituição:** _[Sua Universidade]_
 
 ---
 
