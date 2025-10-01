@@ -1,6 +1,6 @@
 # Programação para Dispositivos Móveis 📱
 
-Este repositório reúne o conteúdo desenvolvido ao longo da disciplina de **Programação para Dispositivos Móveis**, com foco em aplicações Android nativas.
+Este repositório reúne o conteúdo desenvolvido ao longo da disciplina de **Programação para Dispositivos Móveis**.
 
 ## 🎯 Objetivo da Disciplina
 
